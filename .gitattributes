@@ -1,0 +1,4 @@
+dashboard_data.json export-ignore
+dashboard_data_prod.json export-ignore
+dashboard_data.json merge=ours
+dashboard_data_prod.json merge=ours
